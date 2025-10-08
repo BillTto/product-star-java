@@ -1,2 +1,2 @@
-some bold text2
+some bold text3
 More text added
